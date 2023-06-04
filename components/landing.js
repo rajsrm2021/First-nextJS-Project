@@ -43,7 +43,7 @@ const Landing = () => {
               </div>
             </div>
             <div className="flex flex-col px-8 pt-0 md:w-1/2 max-md:h-1/12">
-              <div className="border-4 border-black">
+              <div>
                   <Image src={raj}/>
               </div>
             </div>
